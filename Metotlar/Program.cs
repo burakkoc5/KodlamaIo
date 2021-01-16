@@ -34,6 +34,7 @@ namespace Metotlar
                 
             }
 
+
             
             Console.WriteLine("----------------Metotlar-------------------");
             //encapsulation
