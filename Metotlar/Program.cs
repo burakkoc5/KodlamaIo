@@ -33,8 +33,6 @@ namespace Metotlar
                 Console.WriteLine("----------------------------------");
                 
             }
-
-
             
             Console.WriteLine("----------------Metotlar-------------------");
             //encapsulation
@@ -50,7 +48,7 @@ namespace Metotlar
 
 
 
-
+            //Ders Sonu
 
 
         }
