@@ -8,7 +8,12 @@ namespace GenericsIntro
         {
             MyList<string> isimler = new MyList<string>();
             isimler.Add("Engin");
-            
+
+            MyDictionary<int, string> dictionary = new MyDictionary<int, string>();
+
+            dictionary.Add(1,"Engin");
+            dictionary.Add(2, "Burak");
+
             
 
         }
