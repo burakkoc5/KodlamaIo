@@ -32,7 +32,13 @@ namespace GenericsIntro
             Keys[Keys.Length - 1] = keyItem;
             Values[Values.Length - 1] = valueItem;
         }
-
+        public void showElements()
+        {
+            for (int i = 0; i < Keys.Length; i++)
+            {
+                Console.WriteLine(Keys[i] + " " + Values[i]);
+            }
+        }
 
     }
 }

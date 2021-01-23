@@ -13,7 +13,7 @@ namespace GenericsIntro
 
             dictionary.Add(1,"Engin");
             dictionary.Add(2, "Burak");
-
+            dictionary.showElements();
             
 
         }
